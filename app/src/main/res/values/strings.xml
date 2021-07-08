@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="temperature">Температура</string>
+    <string name="city_coordinates">lt/ln: %s, %s"</string>
+    <string name="error_string">Error</string>
+    <string name="reload">Reload</string>
 </resources>
